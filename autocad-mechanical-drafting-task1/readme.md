@@ -18,7 +18,7 @@ This repository contains a 2D CAD drawing created using AutoCAD. The project inc
 
 ## Preview
 
-Refer to **## Preview ![Task 1 Preview](## Drawing Preview![AutoCAD Drawing](autocad-mechanical-drafting-task1/task%201-Model_page-0001.jpg)** for a quick view of the drawing.
+Refer to **## Preview ![Task 1 Preview](## Drawing Preview![AutoCAD Drawing![AutoCAD Mechanical Drafting Task 1](task%201-Model_page-0001.jpg)** for a quick view of the drawing.
 
 ## How to Open
 
